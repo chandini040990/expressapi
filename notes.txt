@@ -1,0 +1,11 @@
+  {
+    "name" : "mobiles",
+    "description": "latest mobilessssss",
+    "price": "15000"
+  }
+  this is we have to post in postman 
+  please select post in postman and use this url http://localhost:6001/api/items
+
+
+
+  for getting use this http://localhost:6001/api/items
